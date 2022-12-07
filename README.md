@@ -12,8 +12,6 @@
 ```bash
 # install peer dependencies
 npm install @solana/spl-token @solana/web3.js
-
-npm install @audius/fetch-nft
 ```
 
 # Running sample React App
@@ -70,7 +68,6 @@ type Collectible = {
 
 # Usage with Configs
 ```ts
-import { FetchNFTClient } from '@audius/fetch-nft'
 
 // Open Sea Config
 const openSeaConfig = {
