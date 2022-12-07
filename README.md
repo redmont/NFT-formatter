@@ -1,9 +1,9 @@
-# Teesta-NFT-formatter
+# NFT-formatter
 
 <p align="center">
   <p align="left">
     A library to fetch and display Ethereum/Solana (more chains support soon) NFTs in a common format provided any wallet.
-    Built as an internal utility for Teesta App.
+    Built as an internal utility.
   </p>
 </p>
 
